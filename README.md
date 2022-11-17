@@ -11,4 +11,4 @@ Resuelve los siguientes problemas matemáticos:
 2. A Víctor le quedan 96 chapas, que son 27 menos de los que tenía cuando empezó a
 jugar. ¿Cuántas chapas tenía al principio?
 
-**123** chapas
+- **123** chapas
